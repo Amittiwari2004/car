@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "name": "Hyundai Creta",
+        "brand": "Hyundai",
+        "price": 1100000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgs.search.brave.com/LoE3vqlOctYBllIuEASf7bH7ZCtPTWaBU91RgQVwnko/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYwLzIwMjFfSHl1/bmRhaV9DcmV0YV8y/LjBfSFRSQUNfUHJl/c3RpZ2VfKFJ1c3Np/YTtfU1UycilfZnJv/bnRfdmlldy5qcGc",
+        "specs": ["1497 cc", "Manual", "Petrol", "16.8 kmpl"]
+    },
+    {
+        "id": "2",
+        "name": "Tata Nexon",
+        "brand": "Tata",
+        "price": 850000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgs.search.brave.com/Q8WAQGD-uVOi9tTBxWEgyFOxw71SIrBrXZB8BzeMXOE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGlt/Zy5jYXJkZWtoby5j/b20vaW1hZ2VzL2Nh/cmV4dGVyaW9yaW1h/Z2VzLzYzMHg0MjAv/VGF0YS9OZXhvbi85/Njc1LzE3NDMwNjA0/MzE4NDkvZ3JpbGxl/LTk3LmpwZz90cj13/LTY2NA",
+        "specs": ["1497 cc", "Manual", "Diesel", "21.5 kmpl"]
+    },
+    {
+        "id": "3",
+        "name": "Tesla Model 3",
+        "brand": "Tesla",
+        "price": 4200000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgs.search.brave.com/tjnsmZvPmZe0H6Hohw-oYRBwgVElmuCPymC7TNSIRP4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/d2FwY2FyLm15L2Zp/bGUvYWRlMGJlYzlj/YzY0NDYzMmE1MTRi/OWNhZjE4ODU5NjEu/anBn",
+        "specs": ["Electric", "Automatic", "500 km range"]
+    },
+    {
+        "id": "4",
+        "name": "Maruti Suzuki Swift",
+        "brand": "Maruti Suzuki",
+        "price": 650000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgs.search.brave.com/K_hHmwa_aVg88B8iEfT7jjZQGgZ13kJYJKKi2syScSo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS56aWdjZG4uY29t/L21lZGlhL21vZGVs/LzIwMjQvTWF5L21h/cnV0aS1zd2lmdF82/MDB4NDAwLmpwZw",
+        "specs": ["1197 cc", "Manual", "Petrol", "22 kmpl"]
+    },
+    {
+        "id": "5",
+        "name": "Kia Seltos",
+        "brand": "Kia",
+        "price": 1200000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgs.search.brave.com/Qawq8dhxLv2BA4qOd8WPgQUsM8nu1y_F7m_9u6V1GaQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wYXJr/cGx1cy5pby9fbmV4/dC9pbWFnZT91cmw9/aHR0cHM6Ly9wYXJr/cGx1cy1ia3QtaW1n/LnBhcmtwbHVzLmlv/L3Byb2R1Y3Rpb24v/Y2hhcmlvdF9zdGFn/aW5nL3B1YmxpYy9m/cm9udGxlZnRzaWRl/NDdqcGdpbWFnZV8y/MDIzMDkxMjE0NTU0/OTQ4Nzc5Ni5qcGcm/dz0zODQwJnE9NzU",
+        "specs": ["1493 cc", "Automatic", "Diesel", "20.8 kmpl"]
+    },
+    {
+        "id": "6",
+        "name": "Mahindra XUV700",
+        "brand": "Mahindra",
+        "price": 1500000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10789/1705388477954/front-left-side-47.jpg",
+        "specs": ["1997 cc", "Automatic", "Diesel", "17 kmpl"]
+    },
+    {
+        "id": "7",
+        "name": "Honda City",
+        "brand": "Honda",
+        "price": 1200000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City/9421/1739862184352/front-left-side-47.jpg",
+        "specs": ["1498 cc", "Manual", "Petrol", "18.4 kmpl"]
+    },
+    {
+        "id": "8",
+        "name": "MG ZS EV",
+        "brand": "MG",
+        "price": 2300000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "imageUrl": "https://images.news18.com/ibnlive/uploads/2021/10/2021-mg-zs-ev-feature-16341394223x2.jpg",
+        "specs": ["Electric", "Automatic", "419 km range"]
+    },
+    {
+        "id": "9",
+        "name": "Renault Kiger",
+        "brand": "Renault",
+        "price": 700000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Kiger/10042/1717592388399/front-left-side-47.jpg",
+        "specs": ["999 cc", "Manual", "Petrol", "20.5 kmpl"]
+    },
+    {
+        "id": "10",
+        "name": "Volkswagen Virtus",
+        "brand": "Volkswagen",
+        "price": 1130000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://imgd.aeplcdn.com/642x361/n/cw/ec/184551/volkswagen-virtus-right-front-three-quarter0.jpeg?isig=0&q=75",
+        "specs": ["1498 cc", "Manual", "Petrol", "19.4 kmpl"]
+    },
+    {
+        "id": "11",
+        "name": "Toyota Fortuner",
+        "brand": "Toyota",
+        "price": 3200000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "imageUrl": "https://gaadiwaadi.com/wp-content/uploads/2024/04/2024-toyota-fortuner-mild-hybrid-1.jpg",
+        "specs": ["2755 cc", "Automatic", "Diesel", "14.2 kmpl"]
+    },
+    {
+        "id": "12",
+        "name": "Skoda Slavia",
+        "brand": "Skoda",
+        "price": 1110000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl": "https://cdn.skoda-storyboard.com/2021/11/01_SKODA_SLAVIA.jpg",
+        "specs": ["1498 cc", "Manual", "Petrol", "18.7 kmpl"]
+    },
+    {
+        "id": "13",
+        "name": "BYD Atto 3",
+        "brand": "BYD",
+        "price": 3400000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5trqAfQQ5HdIl1H6iUdL57B6A9MrKOGmjQ&s",
+        "specs": ["Electric", "Automatic", "521 km range"]
+    },
+    {
+        "id": "14",
+        "name": "Ford EcoSport",
+        "brand": "Ford",
+        "price": 950000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "imageUrl":" https://www.cnet.com/a/img/resize/881392acddbe467943b086545dbd0009eef837e1/hub/2018/04/25/2ab97147-d6da-405b-a6bd-2a125b701ba4/001-2018-ford-ecosport-review.jpg?auto=webp&fit=crop&height=675&width=1200" ,
+        "specs": ["1496 cc", "Manual", "Petrol", "15.9 kmpl"]
+    },
+    {
+        "id": "15",
+        "name": "Jeep Compass",
+        "brand": "Jeep",
+        "price": 2100000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBw9XhkcUEKHWlLJnrW6YxPLY5ryKS4qWzA&s",
+        "specs": ["1956 cc", "Manual", "Diesel", "17.1 kmpl"]
+    }
+]
