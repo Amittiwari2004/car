@@ -84,7 +84,7 @@ car-finder-app/
   <h2>🛠️ How to Run Locally</h2>
   <div class="code-block">
     <code>
-      git clone https://github.com/yourusername/car-finder-app.git<br/>
+      git clone https://github.com/Amittiwari2004/car-finder-app.git<br/>
       cd car-finder-app<br/>
       npm install<br/>
       npm run dev
