@@ -77,7 +77,7 @@ car-finder-app/
 
   <h2>🌍 Live Demo</h2>
   <p>
-    GitHub Repo: <a href="https://github.com/Amittiwari2004/car-finder-app" target="_blank">https://github.com/yourusername/car-finder-app</a><br />
+    GitHub Repo: <a href="https://github.com/Amittiwari2004/car-finder-app" target="_blank">https://github.com/Amittiwari2004/car-finder-app</a><br />
     Live Site: <a href="https://car-phi-flame.vercel.app/" target="_blank">https://car-finder.vercel.app</a>
   </p>
 
