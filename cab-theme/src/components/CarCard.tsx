@@ -11,7 +11,7 @@ type Props = {
 
 export default function CarCard({ car }: Props) {
   return (
-    <div className="border rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col bg-white dark:bg-gray-800 dark:border-gray-700">
+    <div className=" border border-pink-600 rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col bg-white dark:bg-gray-800 dark:border-gray-700">
       <div className="relative">
         <img
           src={car.imageUrl}
